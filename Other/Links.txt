@@ -1,0 +1,8 @@
+Ссылка на Office ProPlus2021:
+https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-ru/ProPlus2021Retail.img
+
+Zapret Winws:
+https://github.com/Flowseal/zapret-discord-youtube
+
+Visual C++ Redistributable Runtimes All-in-One:
+https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/

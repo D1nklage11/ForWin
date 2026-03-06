@@ -1,0 +1,4 @@
+Рабочий способ активировать Windows и Office:
+Открываем PowerShell;
+Вставляем туда irm https://get.activated.win | iex;
+Выбираем, что нужно активировать.
